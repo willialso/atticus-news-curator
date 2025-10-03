@@ -1,10 +1,4 @@
-# Generate the complete utils.py
-print("\n" + "="*80)
-print("UTILS.PY - COMPLETE SCRIPT")
-print("="*80)
-print()
-
-utils_py = '''#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Utility functions for Atticus News Curator
 Manual operations and maintenance tasks
