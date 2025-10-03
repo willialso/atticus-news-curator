@@ -372,6 +372,4 @@ def main():
         raise
 
 if __name__ == "__main__":
-    main()'''
-
-print(main_py)
+    main()
