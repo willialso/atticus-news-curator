@@ -1,10 +1,4 @@
-# Generate the complete config.py
-print("\n" + "="*80)
-print("CONFIG.PY - COMPLETE SCRIPT")
-print("="*80)
-print()
-
-config_py = '''#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Configuration file for Atticus News Curator
 Modify these settings to customize the curator behavior
