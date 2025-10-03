@@ -169,6 +169,4 @@ def run_full_test():
         print("⚠️ Some tests failed. Fix issues before deploying.")
 
 if __name__ == "__main__":
-    run_full_test()'''
-
-print(test_py)
+    run_full_test()
