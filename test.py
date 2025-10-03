@@ -1,10 +1,4 @@
-# Generate the complete test.py
-print("\n" + "="*80)
-print("TEST.PY - COMPLETE SCRIPT")
-print("="*80)
-print()
-
-test_py = '''#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Test script for Atticus News Curator
 Run this to test your setup before deploying to Render
