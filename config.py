@@ -71,23 +71,4 @@ SHEET_UPDATE_DELAY = 2.0
 
 # Cache management
 MAX_PROCESSED_ARTICLES = 1000
-CLEANUP_THRESHOLD = 500'''
-
-print(config_py)
-
-print("\n" + "="*80)
-print("🎉 ALL 5 COMPLETE PYTHON SCRIPTS READY!")
-print("="*80)
-print("\n📁 Files you now have:")
-print("1. main.py - Main news curator (copy from first output)")
-print("2. requirements.txt - Dependencies (copy from second output)")
-print("3. test.py - Test suite (copy from third output)")
-print("4. utils.py - Utils functions (copy from fourth output)")
-print("5. config.py - Configuration (copy from above)")
-print("\n🚀 Next Steps:")
-print("1. Create GitHub repo")
-print("2. Copy each script to its own file")
-print("3. Push to GitHub")
-print("4. Deploy to Render Background Worker")
-print("5. Set environment variables in Render")
-print("\n💡 All scripts are production-ready and optimized for your $7/month Render plan!")
+CLEANUP_THRESHOLD = 500
