@@ -1,10 +1,4 @@
-# Generate the complete main.py script that can be copied and pasted
-print("="*80)
-print("MAIN.PY - COMPLETE SCRIPT")
-print("="*80)
-print()
-
-main_py = '''#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Atticus News Curator - Automated crypto/options news aggregator
 Runs on Render Background Worker, updates Google Sheets daily
